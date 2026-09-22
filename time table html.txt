@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle>class time table </tittle>
+<style>
+table{
+border-collapse!collopse; width:80%;
+<style>
+table{
+border-collapse!collopse;80%;
+margin;20px auto;
+}
+th,td{
+border:1px solid block; text algin : center: padding:80px;
+}
+th{
